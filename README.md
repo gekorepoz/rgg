@@ -1,0 +1,2 @@
+# rgg
+Random Groups Generator
